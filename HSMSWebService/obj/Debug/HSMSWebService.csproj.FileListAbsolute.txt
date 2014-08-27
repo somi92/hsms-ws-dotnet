@@ -1,0 +1,5 @@
+c:\users\milos\documents\visual studio 2010\Projects\HSMSWebService\HSMSWebService\obj\Debug\ResolveAssemblyReference.cache
+c:\users\milos\documents\visual studio 2010\Projects\HSMSWebService\HSMSWebService\bin\HSMSWebService.dll
+c:\users\milos\documents\visual studio 2010\Projects\HSMSWebService\HSMSWebService\bin\HSMSWebService.pdb
+c:\users\milos\documents\visual studio 2010\Projects\HSMSWebService\HSMSWebService\obj\Debug\HSMSWebService.dll
+c:\users\milos\documents\visual studio 2010\Projects\HSMSWebService\HSMSWebService\obj\Debug\HSMSWebService.pdb
