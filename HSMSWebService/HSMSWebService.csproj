@@ -63,7 +63,6 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HSMS.cs" />
     <Compile Include="HSMSDatabase.cs" />
     <Compile Include="HSMSService.svc.cs">
       <DependentUpon>HSMSService.svc</DependentUpon>
