@@ -14,10 +14,10 @@ namespace HSMSWebService
     {
         // TODO: Add your service operations here
         [OperationContract]
-        HSMS[] getAllActions();
+        HSMS[] GetAllActions();
 
         [OperationContract]
-        HSMS[] getActionsByPriority(int priority);
+        HSMS[] GetActionsByPriority(int priority);
     }
 
     [DataContract]

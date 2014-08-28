@@ -14,13 +14,13 @@ namespace HSMSWebService
         
         private HSMSDatabase database = new HSMSDatabase();
 
-        public HSMS[] getAllActions()
+        public HSMS[] GetAllActions()
         {
             database.ConnectToDatabase();
             return database.AllActions();
         }
 
-        public HSMS[] getActionsByPriority(int priority)
+        public HSMS[] GetActionsByPriority(int priority)
         {
             database.ConnectToDatabase();
             return database.ActionsByPriority(priority);
